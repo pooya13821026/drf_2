@@ -49,7 +49,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -101,6 +101,7 @@
       <workItem from="1684921505518" duration="1798000" />
       <workItem from="1685345470539" duration="777000" />
       <workItem from="1685346302917" duration="29000" />
+      <workItem from="1690964937732" duration="473000" />
     </task>
     <servers />
   </component>
