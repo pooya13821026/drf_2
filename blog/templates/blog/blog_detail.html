@@ -1,0 +1,10 @@
+{% extends 'sheard/_layout.html' %}
+{% block main %}
+    <blog>
+        <h3>{{ object.title }}</h3>
+        <div>{{ object.create_time }}</div>
+        <div>{{ object.auther }}</div>
+        <p>{{ object.text }}</p>
+        <hr>
+    </blog>
+{% endblock %}

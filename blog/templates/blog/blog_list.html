@@ -1,0 +1,12 @@
+{% extends 'sheard/_layout.html' %}
+{% block main %}
+    {% for blog in object_list %}
+        <blog>
+            <h3>{{ blog.title }}</h3>
+            <div>{{ blog.create_time }}</div>
+            <div>{{ blog.auther }}</div>
+            <p>{{ blog.text }}</p>
+            <hr>
+        </blog>
+    {% endfor %}
+{% endblock %}
